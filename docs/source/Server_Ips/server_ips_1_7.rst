@@ -10,19 +10,10 @@ Server Ip's 1.7.10
 
 Agrarian Skies 2
 ^^^^^^^^^^^^^^^^
-Version - ``1.1.14``
---------------------
+Version - ``2.0.6``
+-------------------
 
-* **Node 1:** ``as2.mineyourmind.net``
-
-----
-
-Direwolf 20
-^^^^^^^^^^^
-Version - ``1.10.0``
---------------------
-
-* **Node 2:** ``direwolf202.mineyourmind.net``
+* **Node 2:** ``as2new.mineyourmind.net``
 
 ----
 
@@ -32,6 +23,15 @@ Version - ``1.6.4``
 -------------------
 
 * **Node 1:** ``galactic.mineyourmind.net``
+
+----
+
+GT: New Horizons
+^^^^^^^^^^^^^^^^
+Version - ``2.0.9.0``
+---------------------
+
+* **Node 1:** ``horizons.mineyourmind.net``
 
 ----
 
@@ -54,15 +54,6 @@ Version - ``2.0.1``
 
 ----
 
-Project Ozone 2
-^^^^^^^^^^^^^^^
-Version - ``2.3.0``
--------------------
-
-* **Node 1:** ``projectozone2.mineyourmind.net``
-
-----
-
 Regrowth
 ^^^^^^^^
 Version - ``1.0.2``
@@ -78,4 +69,3 @@ Version - ``1.1.1``
 -------------------
 
 * **Node 2:** ``tekkit2.mineyourmind.net``
-

@@ -8,19 +8,10 @@ Server Ip's 1.12.2
 
 ----
 
-Crackpack 3
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Version - ``3.0.7``
--------------------
-
-* **Node 1:** ``crackpack3.mineyourmind.net`` 
-
-----
-
 Dungeons Dragons and Space Shuttles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Version - ``7.2b``
--------------------
+Version - ``8.0 R1``
+--------------------
 
 * **Node 1:** ``ddss.mineyourmind.net``
 
@@ -28,16 +19,25 @@ Version - ``7.2b``
 
 Enigmatica 2: Expert
 ^^^^^^^^^^^^^^^^^^^^
-Version - ``1.80``
-------------------
+Version - ``1.82a``
+-------------------
 
 * **Node 1:** ``enigmatica.mineyourmind.net``
 
 ----
 
+FTB Interactions
+^^^^^^^^^^^^^^^^
+Version - ``2.0.9``
+-------------------
+
+* **Node 3:** ``interactions.mineyourmind.net``
+
+----
+
 FTB Revelation
 ^^^^^^^^^^^^^^
-Version - ``3.2.1``
+Version - ``3.3.0``
 -------------------
 
 * **Node 1:** ``revelation.mineyourmind.net``
@@ -46,38 +46,28 @@ Version - ``3.2.1``
 
 MC Eternal
 ^^^^^^^^^^
-Version - ``1.3.5.3``
+Version - ``1.3.7.1``
 ---------------------
 
-* **Node 1:** ``mceternal.mym.li`` - **Patron Only server.** See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details
-* **Node 2:** ``mceternal2.mym.li``
-
-----
-
-Omnifactory
-^^^^^^^^^^^
-Version - ``1.2.2``
--------------------
-
-* **Node 1:** ``omnifactory.mineyourmind.net``
+* **Node 2:** ``mceternal2.mineyourmind.net``
 
 ----
 
 Project Ozone 3
 ^^^^^^^^^^^^^^^
-Version - ``3.2.55``
+Version - ``3.3.61``
 --------------------
 
-* **Node 1:** ``projectozone3.mineyourmind.net``
+* **Node 1:** ``po3kappa.mineyourmind.net`` - **kappa mode**
+* **Node 2:** ``po3normal.mineyourmind.net`` - **normal mode**
 
 ----
 
 SevTech Ages
 ^^^^^^^^^^^^
-Version - ``3.1.2 Hotfix 1``
-----------------------------
-
-* **Node 1:** ``sevtech2.mineyourmind.net``
+Version - ``3.1.7``
+-------------------
+* **Node 3:** ``sevtech3.mineyourmind.net``
 
 ----
 
@@ -86,14 +76,20 @@ StoneBlock 2
 Version - ``1.16.1``
 --------------------
 
-* **Node 1:** ``ftbstoneblock.mineyourmind.net``
+* **Node 2:** ``ftbstoneblock2.mineyourmind.net``
 
 ----
 
 Skyfactory 4
 ^^^^^^^^^^^^
-Version - ``4.1.0``
+Version - ``4.2.2``
 -------------------
 
-* **Node 1:** ``skyfactory4next.mym.li``
+* **Node 1:** ``skyfactory4next.mineyourmind.net``
 
+Tekxit 3
+^^^^^^^^
+Version - ``0.990``
+-------------------
+
+* **Node 1:** ``tekxit3.mineyourmind.net``

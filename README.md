@@ -6,6 +6,14 @@ The small documentation of the MineYourMind modded Minecraft Server Community. H
 
 You can setup an environment so you can instantly see the changes that have been made to the docs.
 
+1. [Install VS Code](https://code.visualstudio.com)
+2. [Install reStructuredText Extension](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext)
+3. Click "*Open Preview to the Side*" and choose sphinx for preview
+
+### Alternative
+
+Install the following and view it in the browser:
+
 1. [Install Python 3](https://www.python.org)
 2. [Install node.js](https://nodejs.org)
 3. [Install yarn](https://yarnpkg.com/)

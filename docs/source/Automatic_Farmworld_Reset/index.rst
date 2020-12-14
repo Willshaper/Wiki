@@ -95,24 +95,9 @@ Server Specific Exceptions
 
 - Nether (is *NOT* being reset as it is a void world)
 
-**Divine Journey**
-
-- Runic Dungeons (is being reset *Weekly*)
-- Eden (is being reset *Weekly*)
-- Iceika (is being reset *Weekly*)
-- Wildwood (is being reset *Monthly*)
-- Apalachia (is being reset *Monthly*)
-- Skythern (is being reset *Monthly*)
-- Mortum (is being reset *Monthly*)
-
 **Engmatica 2: Expert**
 
 - Twilight Forest (is being reset *Weekly*)
-
-**Engmatica 2: Expert Skyblock**
-
-- The End (is *NOT* being reset)
-- Nether (is *NOT* being reset)
 
 **Revelations**
 
@@ -130,4 +115,18 @@ Server Specific Exceptions
 **Dungeons, Dragons and Space Shuttles**
 
 - Farmworld (is being reset *Weekly*)
+- Twilight Forest (is being reset *Weekly*)
+
+**MCEternal**
+
+- Twilight Forest (is being reset *Weekly*)
+- The Moon (is being reset *Monthly*)
+- Ratlantis (is being reset *Monthly*)
+- The Betweenlands (is being reset *Monthly*)
+- Midnight (is being reset *Monthly*)
+- The Aurorian (is being reset *Monthly*)
+- Atum (is being reset *Monthly*)
+
+**GT: New Horizons**
+
 - Twilight Forest (is being reset *Weekly*)
