@@ -77,7 +77,7 @@ Curseforge Link - `Particle Culling <https://www.curseforge.com/minecraft/mc-mod
 * **Known Incompatabilites:** ``None``
 
 Entity Culling
-^^^^^^^^
+^^^^^^^^^^^^^^
 Curseforge Link - `Entity Culling <https://www.curseforge.com/minecraft/mc-mods/entity-culling>`__
 -------------------------------------------------------------------------------------------------------
 
@@ -87,3 +87,5 @@ Curseforge Link - `Entity Culling <https://www.curseforge.com/minecraft/mc-mods/
 =======
 Credits
 =======
+
+All credits for this list goes to alkyaly on Github. The full list can be found `here <https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88>`__
