@@ -1,7 +1,7 @@
 ===========================
 Performance Mods for 1.7.10
 ===========================
-.. note::  These mods are not guaranteed to work flawlessly with all modpacks.
+.. note::  These mods are not guaranteed to work with all modpacks.
 .. contents:: Mods
   :depth: 1
   :local:
@@ -29,7 +29,7 @@ Curseforge Link - `Fastcraft <https://www.curseforge.com/minecraft/mc-mods/foamf
 ===========================
 Performance Mods for 1.12.2
 ===========================
-.. note::  These mods are not guaranteed to work flawlessly with all modpacks.
+.. note::  These mods are not guaranteed to work with all modpacks.
 .. contents:: Mods
   :depth: 1
   :local:
