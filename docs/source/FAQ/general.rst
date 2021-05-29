@@ -22,7 +22,37 @@ There is a ``Verified`` rank on Teamspeak but this doesn't restrict you. This in
 
 Is there a Discord server?
 --------------------------
-We do now! You can get to the MyM discord by accepting `this <https://discord.gg/8tyM6xb>`__ invite. 
+We do now! You can get to the MyM discord by accepting `this <https://discord.gg/8tyM6xb>`__ invite.
+
+What are vote rewards?
+----------------------
+
+At the end of every week and month, we give out rewards for the top voters respectively. Here is what the rewards are currently;
+
++---------------+---------+---------+
+|  **Weekly**   | Credits |  Tokens |
++---------------+---------+---------+
+| 1st Place:    |  400    |   250   |
++---------------+---------+---------+
+| 2nd Place:    |         |   150   |
++---------------+---------+---------+
+| 3rd Place:    |         |   100   |
++---------------+---------+---------+
+
+
++---------------+---------+----------------------------+
+|  **Monthly**  | Credits |           Patron           |
++---------------+---------+----------------------------+
+| 1st Place:    |   1000  | 1 Month FREE Patron Tier 3 |
++---------------+---------+----------------------------+
+| 2nd Place:    |   800   | 1 Month FREE Patron Tier 2 |
++---------------+---------+----------------------------+
+| 3rd Place:    |   600   | 1 Month FREE Patron Tier 1 |
++---------------+---------+----------------------------+
+| 4th Place:    |   600   |                            |
++---------------+---------+----------------------------+
+| 5th Place:    |   400   |                            |
++---------------+---------+----------------------------+
 
 
 Can I record YouTube or Twitch on here?
@@ -46,7 +76,7 @@ All our staff is working voluntarily without a benefit. No payment, no special p
 Are you guys (staff) playing legit, or use creative for own sake?
 -----------------------------------------------------------------
 
-Staff play 100% legit at all times. Even instant teleportation is not allowed to be used for personal gain. All the extra permissions granted after becoming a part of the staff are only allowed to be used for fulfilling their duties, not for personal advantage. We enforce this strictl and if you are seeing a staff member not playing legit, please report them to us `here <https://mineyourmind.net/forum/forums/complaints-against-players-and-staff.186/>`__.
+Staff play 100% legit at all times. Even instant teleportation is not allowed to be used for personal gain. All the extra permissions granted after becoming a part of the staff are only allowed to be used for fulfilling their duties, not for personal advantage. We enforce this strictly and if you are seeing a staff member not playing legit, please report them to us `here <https://mineyourmind.net/forum/forums/complaints-against-players-and-staff.186/>`__.
 
 
 What is a Standalone server?
@@ -67,7 +97,6 @@ How do I create a ticket?
 
 Creating a ticket requires a forum account which you can create `here <https://mineyourmind.net/forum/login/>`__.
 
-Once you have a forums acount, run ``/ticket`` in game and follow the instructions. (Make sure to be at the correct location before you issue the command as your location will be included.) 
+Once you have a forums acount, run ``/ticket`` in game and follow the instructions. (Make sure to be at the correct location before you issue the command as your location will be included.)
 
 **Note:** The command only creates a ticket entry. You **must** click the link that pops up in chat and fill it out or else staff will be unable to see it. Alternatively, you can view your ticket by going to `this <https://mineyourmind.net/ticket/ticket/user>`__ page and clicking the empty ticket.
-

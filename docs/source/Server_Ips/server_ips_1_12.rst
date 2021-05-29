@@ -26,18 +26,9 @@ Version - ``1.82a``
 
 ----
 
-FTB Interactions
-^^^^^^^^^^^^^^^^
-Version - ``2.0.9``
--------------------
-
-* **Node 3:** ``interactions.mineyourmind.net``
-
-----
-
 FTB Revelation
 ^^^^^^^^^^^^^^
-Version - ``3.3.0``
+Version - ``3.4.0``
 -------------------
 
 * **Node 1:** ``revelation.mineyourmind.net``
@@ -73,7 +64,7 @@ Version - ``3.1.7``
 
 StoneBlock 2
 ^^^^^^^^^^^^
-Version - ``1.16.1``
+Version - ``1.20.0``
 --------------------
 
 * **Node 2:** ``ftbstoneblock2.mineyourmind.net``
